@@ -1,0 +1,11 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU"/>
+        <Platform Name="x64"/>
+        <Platform Name="x86"/>
+    </Configurations>
+    <Project Path="RoslynStand.Analyzers.Tests/RoslynStand.Analyzers.Tests.csproj"/>
+    <Project Path="RoslynStand.Analyzers/RoslynStand.Analyzers.csproj"/>
+    <Project Path="RoslynStand.EmitHost/RoslynStand.EmitHost.csproj"/>
+    <Project Path="RoslynStand.Sample/RoslynStand.Sample.csproj"/>
+</Solution>
