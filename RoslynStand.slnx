@@ -7,5 +7,7 @@
     <Project Path="RoslynStand.Analyzers.Tests/RoslynStand.Analyzers.Tests.csproj"/>
     <Project Path="RoslynStand.Analyzers/RoslynStand.Analyzers.csproj"/>
     <Project Path="RoslynStand.EmitHost/RoslynStand.EmitHost.csproj"/>
+    <Project Path="RoslynStand.Generators.Tests/RoslynStand.Generators.Tests.csproj"/>
+    <Project Path="RoslynStand.Generators/RoslynStand.Generators.csproj"/>
     <Project Path="RoslynStand.Sample/RoslynStand.Sample.csproj"/>
 </Solution>

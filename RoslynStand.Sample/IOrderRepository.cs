@@ -5,5 +5,5 @@ namespace RoslynStand.Sample;
 
 public interface IOrderRepository
 {
-    Task<OrderDto?> GetByIdAsync(string orderId, CancellationToken cancellationToken);
+    Task<OrderDto?> GetByIdAsync(OrderId orderId, CancellationToken cancellationToken);
 }
